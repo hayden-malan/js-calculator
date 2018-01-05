@@ -50,4 +50,5 @@ code {
 
 .calcbg {
     background-color: rgb(194, 193, 189); 
+    min-height: 30em;
 }
