@@ -53,4 +53,6 @@ code {
     min-height: 30em;
     border-radius: 25px;
     border: 1px solid rgb(117, 117, 117) ;
+    padding: 20px;
+    margin: 20px;
 }
