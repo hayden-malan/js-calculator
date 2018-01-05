@@ -1,0 +1,49 @@
+.spare {
+    outline: 1px solid red !important;
+}
+* {
+    
+    color: white;
+ }
+
+ body {
+    background-repeat: no-repeat;  background-attachment: fixed;
+    background-image: url(https://www.sculpteo.com/blog/wp-content/uploads/2015/12/cover-for-ebook-article.jpg);
+  }
+
+ .logo {
+    max-height: 8.56em;
+  }
+
+  .articleimg {
+      max-width: 30em;    
+  }
+  .articleimgvert {
+    max-width: 30em;
+    max-height: 26.5em;    
+}
+
+
+  h1 {
+      padding-top:4rem;
+      padding-left:2rem;
+  }
+
+  h4 {
+    padding-left:1rem;
+}
+
+.nav{
+    padding-top:2rem;
+    padding-left:2rem; 
+}
+
+.footertxt {
+    padding-top:2rem;
+    text-align:center;
+    text-decoration: bold;
+}
+
+code {
+    background-color: black;
+}
