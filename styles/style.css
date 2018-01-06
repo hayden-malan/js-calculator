@@ -80,8 +80,8 @@ code {
     margin: 1px;
 }
 .redbutton {
-    min-width:12em;
-    min-height:6em;
+    min-width:6em;
+    min-height:2em;
     background-color: rgb(192, 45, 45);
     border: 1px solid rgb(117, 117, 117) ;
     border-radius: 5px; 
