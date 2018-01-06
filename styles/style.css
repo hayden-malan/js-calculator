@@ -103,3 +103,14 @@ code {
     display: inline-block;
 
 }
+
+.widebutton {
+    min-width:140px;
+    min-height:42px;
+    background-color: rgb(36, 34, 34);
+    border: 1px solid rgb(117, 117, 117) ;
+    border-radius: 5px; 
+    margin: 10px, 5px, 5px, 5px;
+    padding: 5px;
+    display: inline-block;  
+}
