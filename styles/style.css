@@ -69,8 +69,8 @@ code {
 }
 
 .buttons {
-    min-width:3em;
-    min-height:3em;
+    min-width:6em;
+    min-height:6em;
     margin: 5px;
     padding: 3px;
 
@@ -80,8 +80,8 @@ code {
     margin: 1px;
 }
 .redbutton {
-    max-width:5em;
-    max-height:3em;
+    min-width:12em;
+    min-height:6em;
     background-color: rgb(192, 45, 45);
     border: 1px solid rgb(117, 117, 117) ;
     border-radius: 5px; 
