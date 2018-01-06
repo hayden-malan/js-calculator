@@ -78,6 +78,7 @@ code {
 
 .buttontxt {
     margin: 3px;
+    margin-top:10px;
 }
 .redbutton {
     min-width:4em;
