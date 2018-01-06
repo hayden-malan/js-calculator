@@ -81,13 +81,9 @@ code {
     margin-top:10px;
 }
 .redbutton {
-    min-width:4em;
-    
+   
     background-color: rgb(192, 45, 45);
     border: 1px solid rgb(117, 117, 117) ;
-    border-radius: 5px; 
-    margin: 5px;
-    padding: 5px;
     display: inline-block;
 
 }
