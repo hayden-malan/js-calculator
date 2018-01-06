@@ -83,6 +83,6 @@ code {
     border-radius: 5px; 
     margin: 5px;
     padding: 3px;
-    display: inline;
+    display: inline-block;
 
 }
