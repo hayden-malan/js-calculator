@@ -70,9 +70,9 @@ code {
 
 .buttons {
     min-width:6em;
-    
     margin: 5px;
     padding: 3px;
+    padding-bottom: 5px;
 
 }
 
@@ -81,9 +81,13 @@ code {
     margin-top:10px;
 }
 .redbutton {
-   
+    min-width:4em;
+    min-height:2em;
     background-color: rgb(192, 45, 45);
     border: 1px solid rgb(117, 117, 117) ;
+    border-radius: 5px; 
+    margin: 5px;
+    padding: 5px;
     display: inline-block;
 
 }
@@ -101,7 +105,7 @@ code {
 }
 
 .widebutton {
-    min-width:140px;
+    min-width:72px;
     min-height:42px;
     background-color: rgb(36, 34, 34);
     border: 1px solid rgb(117, 117, 117) ;
