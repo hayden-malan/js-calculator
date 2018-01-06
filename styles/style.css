@@ -75,6 +75,10 @@ code {
     padding: 3px;
 
 }
+
+.buttontxt {
+    margin: 1px;
+}
 .redbutton {
     max-width:5em;
     max-height:3em;
