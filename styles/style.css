@@ -76,13 +76,13 @@ code {
 
 }
 .redbutton {
-    max-width:3em;
+    max-width:5em;
     max-height:3em;
     background-color: rgb(192, 45, 45);
     border: 1px solid rgb(117, 117, 117) ;
     border-radius: 5px; 
     margin: 5px;
-    padding: 3px;
+    padding: 5px;
     display: inline-block;
 
 }
